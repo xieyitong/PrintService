@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="PrintControl">
+</Property><Property Name="Solution File" Value="E:\HttpServer--Sino\PrintControl\PrintControl.sln">
+</Property><Property Name="User Options File" Value="E:\HttpServer--Sino\PrintControl\PrintControl.suo">
+</Property><Property Name="Date" Value="2015年11月3日">
+</Property><Property Name="Time" Value="10:24">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="PrintControl.sln" Description="File successfully backed up as E:\HttpServer--Sino\PrintControl\Backup\PrintControl.sln">
+</Event><Event ErrorLevel="0" Project="" Source="PrintControl.suo" Description="File successfully backed up as E:\HttpServer--Sino\PrintControl\Backup\PrintControl.suo">
+</Event><Event ErrorLevel="0" Project="PrintControl" Source="PrintControl\PrintControl.csproj" Description="Project file successfully backed up as E:\HttpServer--Sino\PrintControl\Backup\PrintControl\PrintControl.csproj">
+</Event><Event ErrorLevel="0" Project="PrintControl" Source="PrintControl\Class1.cs" Description="File successfully backed up as E:\HttpServer--Sino\PrintControl\Backup\PrintControl\Class1.cs">
+</Event><Event ErrorLevel="0" Project="PrintControl" Source="PrintControl\HttpUtils.cs" Description="File successfully backed up as E:\HttpServer--Sino\PrintControl\Backup\PrintControl\HttpUtils.cs">
+</Event><Event ErrorLevel="0" Project="PrintControl" Source="PrintControl\Properties\AssemblyInfo.cs" Description="File successfully backed up as E:\HttpServer--Sino\PrintControl\Backup\PrintControl\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="PrintControl" Source="PrintControl\StringUtils.cs" Description="File successfully backed up as E:\HttpServer--Sino\PrintControl\Backup\PrintControl\StringUtils.cs">
+</Event><Event ErrorLevel="0" Project="PrintControl" Source="PrintControl\UserControl1.cs" Description="File successfully backed up as E:\HttpServer--Sino\PrintControl\Backup\PrintControl\UserControl1.cs">
+</Event><Event ErrorLevel="0" Project="PrintControl" Source="PrintControl\FR.exe" Description="File successfully backed up as E:\HttpServer--Sino\PrintControl\Backup\PrintControl\FR.exe">
+</Event><Event ErrorLevel="0" Project="PrintControl" Source="PrintControl\O2S.Components.PDFRender4NET.dll" Description="File successfully backed up as E:\HttpServer--Sino\PrintControl\Backup\PrintControl\O2S.Components.PDFRender4NET.dll">
+</Event><Event ErrorLevel="0" Project="PrintControl" Source="PrintControl\O2S.Components.PDFView4NET.dll" Description="File successfully backed up as E:\HttpServer--Sino\PrintControl\Backup\PrintControl\O2S.Components.PDFView4NET.dll">
+</Event><Event ErrorLevel="0" Project="PrintControl" Source="PrintControl\PrintControl.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="PrintControl" Source="PrintControl\PrintControl.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="SetupPrinterControl.vdproj" Source="SetupPrinterControl\SetupPrinterControl.vdproj" Description="Project file successfully backed up as E:\HttpServer--Sino\PrintControl\Backup\SetupPrinterControl\SetupPrinterControl.vdproj">
+</Event><Event ErrorLevel="0" Project="" Source="PrintControl.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="PrintControl.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="PrintControl" Source="PrintControl\PrintControl.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
